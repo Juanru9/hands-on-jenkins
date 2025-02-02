@@ -3,3 +3,6 @@
 
 # Compiled Python code 
 *.pyc
+
+.idea
+*.iml
